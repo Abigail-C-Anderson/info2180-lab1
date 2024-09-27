@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, "Courier New", "Arial Narrow", Tahoma;
+    line-height: 1.5;
+    color: grey;
+}
+
+h1 {
+    font-size: 24px;
+    color: #38B2AC; /* Applies to h1 headings */
+}
+
+h2 {
+    font-size: 21px;
+    color: #5A67D8; /* Applies to h2 headings */
+}
+
+p {
+    font-size: 18px; /* Applies to paragraphs */
+}
